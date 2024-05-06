@@ -28,6 +28,8 @@ import rahulshettyacademy.pageobjects.ProductCatalogPage;
 
 public class submitpage extends BaseTest {
 	//String ProductName ="ADIDAS ORIGINAL";
+
+        //newjsjsks
     @Test(dataProvider="getData",groups= {"purchase1"})
 	public  void SubmitOrder (HashMap<String,String> input ) throws IOException {
 		// TODO Auto-generated method stub
