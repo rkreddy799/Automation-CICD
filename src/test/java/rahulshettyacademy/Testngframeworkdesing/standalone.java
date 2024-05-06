@@ -19,6 +19,8 @@ public class standalone {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
+                //new commands added
 		String ProductName ="ADIDAS ORIGINAL";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
